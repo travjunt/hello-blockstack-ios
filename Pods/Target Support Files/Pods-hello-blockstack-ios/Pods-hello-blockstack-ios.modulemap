@@ -1,0 +1,6 @@
+framework module Pods_hello_blockstack_ios {
+  umbrella header "Pods-hello-blockstack-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
